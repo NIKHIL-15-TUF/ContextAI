@@ -9,4 +9,4 @@ public class GeminiIntegrationApplication {
     {
         SpringApplication.run(GeminiIntegrationApplication.class, args);
     }
-}n
+}
